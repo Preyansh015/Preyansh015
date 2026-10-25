@@ -1,25 +1,25 @@
-<!-- Minimalist Animated Gradient Background & Name Banner -->
+<!-- Animated Cyber-Gradient Header & Name Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=PREYANSH%20RAUT&fontSize=44&fontColor=00F5D4&fontAlignY=50&animation=fadeIn&desc=DATA%20SCIENCE%20LEARNER%20%7C%20B.TECH%20CSE%202026&descSize=14&descColor=FFFFFF&descAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=200&section=header&text=PREYANSH%20RAUT&fontSize=42&fontColor=00F5D4&fontAlignY=38&animation=fadeIn&desc=DATA%20SCIENCE%20LEARNER%20%7C%20B.TECH%20CSE%202026&descSize=14&descColor=FFFFFF&descAlignY=62" width="100%" />
 </p>
 
-<!-- Minimalist Typing Subheader -->
+<!-- Animated Typing Subheader -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+Into+Intelligence+%F0%9F%A7%AA;Python+%26+Advanced+SQL+Developer+%F0%9F%92%BB;Building+Predictive+Machine+Learning+Models+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Intelligence+%F0%9F%A7%AA;Python+%26+Advanced+SQL+Developer+%F0%9F%92%BB;Building+Predictive+Machine+Learning+Models+%F0%9F%93%88;Exploring+Statistics+%26+Data+Pipelines+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
-<!-- Minimalist Contact Links -->
+<!-- Sleek Cyber-Styled Contact & Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/preyansh-raut-aa060a257" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:preyanshraut@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/PreyanshRaut" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PreyanshRaut&color=00f5d4&style=flat-square&label=Views" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=PreyanshRaut&color=00f5d4&style=for-the-badge&label=Visitor+Count" alt="Visitor Count" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Core Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-2C0670?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -66,9 +66,9 @@
 
 ---
 
-### 📊 Data Activity Trend
+### 📊 Data Analytics & Activity Trend
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PreyanshRaut&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PreyanshRaut&theme=tokyo-night&hide_border=true&area=true&custom_title=Coding%20Activity%20Time-Series" alt="Activity Graph" />
 </p>
 
 ---
