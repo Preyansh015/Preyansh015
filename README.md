@@ -1,6 +1,6 @@
-<!-- Futuristic Data Science Animated Header -->
+<!-- Futuristic Robotics & AI Coding Animated Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Data Science Neural Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/221841242-b09b35e6-78cc-44ee-8197-d3da3ee98918.gif" width="100%" alt="Futuristic AI Coding Animation" />
 </p>
 
 <!-- Neon Title Banner -->
@@ -8,9 +8,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,30,45&height=120&section=header&text=Preyansh%20Raut&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=50" />
 </p>
 
-<!-- Animated Data Typing Subheader -->
+<!-- High-Tech Coding & Robotics Typing Subheader -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=680&lines=Data+Science+Learner+%F0%9F%A7%AA;Neural+Networks+%26+Machine+Learning+%F0%9F%A7%A0;Python+%26+Advanced+SQL+Enthusiast+%F0%9F%92%BB;Turning+Raw+Data+Into+Intelligence+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Initializing+AI+Core+%F0%9F%A4%96;Executing+Python+%26+Advanced+SQL+%F0%9F%92%BB;Training+Machine+Learning+Models+%F0%9F%A7%AA;Extracting+Insights+at+Lightning+Speed+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <!-- Glowing Connect & Contact Badges -->
@@ -24,7 +24,7 @@
   <a href="https://github.com/PreyanshRaut" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PreyanshRaut&color=00f5d4&style=for-the-badge&label=Profile+Views" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=PreyanshRaut&color=00f5d4&style=for-the-badge&label=System+Access" alt="Visitor Count" />
 </p>
 
 ---
