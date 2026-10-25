@@ -29,19 +29,17 @@
 <tr>
 <td width="55%">
 
-* 🎓 Graduated with a **B.Tech in Computer Science and Engineering** in **2026** from **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur**.
-* 🌱 Immersed as a dedicated **Data Science Learner**, building a robust analytical and programming foundation through rigorous hands-on execution.
-* 🛠️ **Core Focus:** Mastering the complete data science stack from raw database extraction to machine learning predictive modeling.
-* 🚀 **Career Objective:** Looking to secure entry-level Data Science and Analyst opportunities where I can solve complex problems and build impactful data-driven solutions.
+- 🎓 **B.Tech in Computer Science & Engineering** graduate (**YCCE Nagpur, 2026**).
+- 🌱 Aspiring Data Scientist specializing in **Python, Advanced SQL, and Machine Learning**.
+- 🚀 Passionate about turning raw databases into structured insights and building real-world predictive models.
 
 </td>
 <td>
 
 ### ⚡ Quick Highlights
-* 📍 **Location:** Nagpur, India 🇮🇳
-* 💡 **Philosophy:** *"Slow and steady, code by code, hands-on execution."*
-* 🎯 **Current Milestone:** Building end-to-end portfolio projects using Python and Advanced SQL.
-* ✉️ **Status:** Open for Internships & Full-Time Roles!
+- 📍 **Location:** Nagpur, India 🇮🇳
+- 💡 **Focus:** Hands-on data projects
+- ✉️ **Status:** Open for Roles & Internships
 
 </td>
 </tr>
@@ -66,23 +64,7 @@
 
 ---
 
-### 🏆 GitHub Trophies & Achievements
+### 📊 Coding Activity Trend
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PreyanshRaut&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake Animation
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PreyanshRaut/PreyanshRaut/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/PreyanshRaut/PreyanshRaut/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
-  </picture>
-</p>
-
----
-
-<p align="center">
-  ✨ <i>"The best way to predict the future is to build it with data."</i> ✨
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PreyanshRaut&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
