@@ -1,11 +1,11 @@
-<!-- Animated Glowing Wave Header Banner -->
+<!-- Animated Data Wave Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=220&section=header&text=Hi%20👋,%20I'm%20Preyansh%20Raut&fontSize=38&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Learner%20%7C%20Aspiring%20Data%20Scientist&descSize=16&descColor=FFFFFF&descAlignY=58" />
 </p>
 
-<!-- Animated Typing Subheader -->
+<!-- Animated Data Typing Subheader -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Data+Science+Learner+%F0%9F%A7%AA;B.Tech+CSE+Graduate+%28YCCE+Nagpur+2026%29+%F0%9F%8E%93;Python+%26+Advanced+SQL+Enthusiast+%F0%9F%92%BB;Turning+Raw+Data+Into+Actionable+Insights+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=680&lines=Analyzing+Patterns+%F0%9F%93%88;Extracting+Insights+with+SQL+%F0%9F%92%BB;Building+Machine+Learning+Models+%F0%9F%A7%AA;Turning+Raw+Data+Into+Action+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <!-- Glowing Connect & Contact Badges -->
@@ -66,14 +66,19 @@
 
 ---
 
-### 🏆 GitHub Trophies & Achievements
+### 📊 Data Analytics & Code Activity (Live Time-Series)
+<!-- This renders a live graphical activity chart that looks like a data science time-series plot -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PreyanshRaut&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PreyanshRaut&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Coding%20Activity%20Trend" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreyanshRaut&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake Animation
+### 🐍 GitHub Contribution Data Stream
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PreyanshRaut/PreyanshRaut/output/github-contribution-grid-snake.svg">
