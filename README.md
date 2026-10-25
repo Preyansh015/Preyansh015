@@ -1,11 +1,16 @@
-<!-- Animated Data Wave Header Banner -->
+<!-- Futuristic Data Science Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=220&section=header&text=Hi%20👋,%20I'm%20Preyansh%20Raut&fontSize=38&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Learner%20%7C%20Aspiring%20Data%20Scientist&descSize=16&descColor=FFFFFF&descAlignY=58" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Data Science Neural Animation" />
+</p>
+
+<!-- Neon Title Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,30,45&height=120&section=header&text=Preyansh%20Raut&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=50" />
 </p>
 
 <!-- Animated Data Typing Subheader -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=680&lines=Analyzing+Patterns+%F0%9F%93%88;Extracting+Insights+with+SQL+%F0%9F%92%BB;Building+Machine+Learning+Models+%F0%9F%A7%AA;Turning+Raw+Data+Into+Action+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=680&lines=Data+Science+Learner+%F0%9F%A7%AA;Neural+Networks+%26+Machine+Learning+%F0%9F%A7%A0;Python+%26+Advanced+SQL+Enthusiast+%F0%9F%92%BB;Turning+Raw+Data+Into+Intelligence+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <!-- Glowing Connect & Contact Badges -->
@@ -67,7 +72,6 @@
 ---
 
 ### 📊 Data Analytics & Code Activity (Live Time-Series)
-<!-- This renders a live graphical activity chart that looks like a data science time-series plot -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PreyanshRaut&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Coding%20Activity%20Trend" alt="Activity Graph" />
 </p>
